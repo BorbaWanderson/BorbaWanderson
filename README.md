@@ -2,7 +2,7 @@
 # 🚀 Hi there, I'm Wanderson Borba
 
 ## About
-> I'm a Web developer and student from [Rocketseat](https://www.rocketseat.com.br/)
+> I'm a Software Analysis and Development student.
 
 > I love games and pets.
 
@@ -12,8 +12,6 @@
 - `Javascript`
 - `HTML` 
 - `CSS`
-- `Node.Js`
-- `Reat.Js`
 
 ## 📫 Contact
 wanderson.borba.salles@gmail.com
